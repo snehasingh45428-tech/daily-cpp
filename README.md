@@ -4,7 +4,8 @@ Tracking my daily C++ + DSA journay for future internship prep.
 ## Programs
 Day 1 :hello world + git setup - day1.cpp
 Day 2 : Variable and user Input - day2.cpp
-Day 3 : Difference of two number - day3.cpp
+Day 3 : Difference of two number - day3.cpp 
+Day 4 : Logical Operators - day4.cpp
  ### goals
 - week 1-3: c++ basics + STL
 - week 4+ start DSA - Array, strings, hashmaps
