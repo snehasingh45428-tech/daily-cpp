@@ -1,5 +1,12 @@
 #daily -cpp
 Daily C++ practice for internship
+Tracking my daily C++ + DSA journay for future internship prep.
 ## Programs
-- sum.cpp
-- factorial.cpp
+Day 1 :hello world + git setup - day1.cpp
+Day 2 : Variable and user Input - day2.cpp
+Day 3 : Difference of two number - day3.cpp
+ ### goals
+- week 1-3: c++ basics + STL
+- week 4+ start DSA - Array, strings, hashmaps
+- target: 150+ problems before applications open
+
