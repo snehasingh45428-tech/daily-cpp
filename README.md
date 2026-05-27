@@ -1,5 +1,5 @@
 #daily -cpp
 Daily C++ practice for internship
-## programs
+## Programs
 - sum.cpp
 - factorial.cpp
