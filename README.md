@@ -1,4 +1,4 @@
-#daily -cpp
+# daily -cpp
 Daily C++ practice for internship
 Tracking my daily C++ + DSA journay for future internship prep.
 ## Programs
