@@ -7,6 +7,9 @@ Day 2 : Variable and user Input - day2.cpp
 Day 3 : Difference of two number - day3.cpp 
 Day 4 : Logical Operators - day4.cpp
 Day 5 : Control  Statements - day5.cpp
+Day 6: if,else if,else - day6.cpp
+Day 7 : upper and lowercase - day7.cpp
+Day 8 : for loop - day8.cpp
  ### goals
 - week 1-3: c++ basics + STL
 - week 4+ start DSA - Array, strings, hashmaps
